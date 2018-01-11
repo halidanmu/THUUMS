@@ -1,4 +1,4 @@
-# THUUyMorphSegmenter: An Open Source Toolkit for Uyghur Morphological Segmentation
+# THUUMS: An Open Source Toolkit for Uyghur Morphological Segmentation
 ## Contents
 * [Introduction](#introduction)
 * [Usage](#usage)
@@ -12,7 +12,7 @@
 ## Introduction
 
 Morphological segmentation is a natural language processing task that aims to segment to its' corresponding morphemes, which are smallest meaning unit. 
-THUUyMorphoSegmenter is an open-source toolkit for neural machine translation developed by [the Natural Language Processing Group at Tsinghua University](http://nlp.csai.tsinghua.edu.cn/site2/index.php?lang=en).
+THUUMS(Tsinghua University Uyghur Morphology Segmenter) is an open-source toolkit for neural machine translation developed by [the Natural Language Processing Group at Tsinghua University](http://nlp.csai.tsinghua.edu.cn/site2/index.php?lang=en).
 
 ## Usage
 In the trunk folder
