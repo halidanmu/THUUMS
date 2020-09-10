@@ -66,4 +66,4 @@ Project members: Abudukelimu Halidanmu, Yong Cheng
 
 ## Contact
 
-If you have questions, suggestions and bug reports, please email [thuuymorphseg@gmail.com](mailto:thumt17@gmail.com).
+If you have questions, suggestions and bug reports, please email [abdklmhldm@gmail.com](mailto:thumt17@gmail.com).
